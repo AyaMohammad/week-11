@@ -1,0 +1,195 @@
+body{
+    
+    
+   background-color: grey;
+    
+  
+}
+
+.game-container{
+
+   /* background-image: url('image/startBackground.jpg'); */
+    background-repeat: no-repeat;
+     
+    background-size:cover;
+    box-shadow:inset 0 0 0 1000px #01000ec9;
+    background-size: 1500px 600px;
+    height: 590px;
+ 
+    font-family: 'Indie Flower', cursive;
+    font-size: 50px;
+}
+
+.startTitle{
+    position: absolute;
+    top: 1%;
+    right: 30px;
+    text-align: center;
+   /* transform: rotate(10deg); mayalan*/
+}
+h1  {
+    font-family: 'Black And White Picture', sans-serif;
+    font-size: 40px;
+    background-color: grey;
+    width: 1300px;
+    letter-spacing: 3px;
+    word-spacing: 6px;
+    color: red;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-align: center;
+    text-shadow: 2px 2px Black ; 
+}
+.button1 {
+    width: 100px;
+    text-align: center;
+    position: absolute;
+    top: 515px;
+    right: 600px;
+    width: 150px;
+    height: 70px;
+    background-color: grey;
+    font-size: 40px;
+    color: red;
+    text-shadow: 2px 2px Black ;
+
+}
+#button1:hover ,#button2:hover ,#button3:hover{
+    background-color: darkred;
+    color: grey;
+    text-shadow: 2px 2px Black ;
+}
+
+
+.startDescription{
+    position: absolute;
+    top: 25%;
+    padding: 50px;
+    text-align: justify;
+    font-size: 30px;
+    color: rgb(219, 219, 219);
+}
+
+
+#inventoryItem{
+  
+    position: relative;
+    top: -25px;
+    left: -410px;  
+    width: 100px;
+    height: 100px;
+    
+
+}
+
+.level1background{
+   
+    background-repeat: no-repeat;
+     
+    background-size:cover;
+    box-shadow:inset 0 0 0 1000px #01000ec9;
+    background-size: 1500px 600px;
+    height: 590px;
+    
+}
+
+.button2L1{
+    width: 100px;
+    text-align: center;
+    position: absolute;
+    top: 515px;
+    right: 400px;
+    width: 150px;
+    height: 70px;
+    background-color: grey;
+    font-size: 40px;
+    color: red;
+    text-shadow: 2px 2px Black ;
+}
+.button3L1{
+    width: 100px;
+    text-align: center;
+    position: absolute;
+    top: 515px;
+    right: 800px;
+    width: 150px;
+    height: 70px;
+    background-color: grey;
+    font-size: 40px;
+    color: red;
+    text-shadow: 2px 2px Black ;
+}
+
+
+
+/*dood1Level3*/
+.dood1Level4{
+    background-repeat: no-repeat;
+     
+    background-size:cover;
+    box-shadow:inset 0 0 0 1000px #01000ec9;
+    background-size: 1500px 600px;
+    height: 590px;
+}
+.descriptionDood1Level4{
+    position: absolute;
+    padding: 50px;
+   
+    left: 1000px;
+    text-align: justify;
+    font-size: 30px;
+    color: rgb(219, 219, 219);
+}
+.titleDood1Level4{
+    color: black;
+    background-color: white;
+    width: 180px;
+    left: 780px;
+}
+
+/* level 3 */
+.level2background{
+    background-repeat: no-repeat;
+     
+    background-size:cover;
+    
+    background-size: 1500px 600px;
+    height: 590px;
+}
+.button1Level2{
+    width: 200px;
+    height: 70px;
+
+}
+
+.descriptionLevel2{
+    right: 200px;
+    top: -10px;
+}
+
+
+.descriptionLevel9{
+    top: -15px;
+    color: #086A87;
+    
+}
+
+.descriptionLevel11{
+    text-shadow: 2px 2px red ;
+}
+
+
+.button1Level11{
+    color: black;
+    background-color: #0A2229;
+    text-shadow: 2px 2px green ;
+
+}
+.titleLevel11{
+    color: black;
+    background-color: #0A2229;
+    text-shadow: 2px 2px green ;
+}

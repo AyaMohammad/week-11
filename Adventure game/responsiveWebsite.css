@@ -1,0 +1,17 @@
+.container{
+	display: grid;
+	width: 100%;
+}
+.menu{
+	background-color: yellow;
+	width: 100%;
+	line-height: 100px;
+}
+.menuButton{
+	background-color: grey;
+	width: 100%;
+	line-height: 100px;
+}
+.rijles{
+	
+}
